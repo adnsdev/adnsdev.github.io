@@ -1,23 +1,41 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Node modules and package logs
+node_modules/
+npm-debug.log
+yarn-error.log
 
-# dependencies
-/node_modules
+# Build and output folders
+/build
+/dist
+
+# Environment variables (API keys, secrets, etc.)
+.env
+.env.local
+.env.production
+.env.development
+
+# Logs & cache files
+.cache/
+.eslintcache
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependency directories
 /.pnp
 .pnp.js
 
-# testing
+# Miscellaneous
 /coverage
+*.log
 
-# production
-/build
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Ignore local Netlify/Vercel/Firebase settings
+.netlify
+.vercel
+.firebase
