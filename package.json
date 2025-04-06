@@ -2,7 +2,7 @@
   "name": "portfolio-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adnsdev.github.io/adnsdev.github.io",
+  "homepage": ".",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@testing-library/dom": "^10.4.0",
