@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.134e1ab9.css",
+    "main.js": "./static/js/main.5ad3f27b.js",
+    "static/js/453.90a7b0b2.chunk.js": "./static/js/453.90a7b0b2.chunk.js",
+    "static/media/adn.PNG": "./static/media/adn.061ac7b47e26e8abece3.PNG",
+    "static/media/online-job-interview-concept.png": "./static/media/online-job-interview-concept.9d16ad00ea577ff568db.png",
+    "static/media/MylatestProjec.jpeg": "./static/media/MylatestProjec.fde3c1675dd9eaeaed9a.jpeg",
+    "static/media/Gamming.jpeg": "./static/media/Gamming.865457be4b9d2214bc2e.jpeg",
+    "static/media/MylatestProject.jpeg": "./static/media/MylatestProject.86b7a4b81035f7126895.jpeg",
+    "static/media/Portfolio.jpeg": "./static/media/Portfolio.e302d86865d0e987619b.jpeg",
+    "static/media/ML.jpg": "./static/media/ML.3c2bc6f88cf2d043927d.jpg",
+    "static/media/AiAgents.jpg": "./static/media/AiAgents.74645673d60b88316dae.jpg",
+    "static/media/Mapp.jpg": "./static/media/Mapp.4e5116058343f83f3860.jpg",
+    "static/media/Ai.jpg": "./static/media/Ai.8ca9c9841c09c50b1d8e.jpg",
+    "static/media/UiUx.jpg": "./static/media/UiUx.c7d2a9542591d2ac7218.jpg",
+    "static/media/Api.jpg": "./static/media/Api.aecf9d4674dab3fa1585.jpg",
+    "index.html": "./index.html",
+    "main.134e1ab9.css.map": "./static/css/main.134e1ab9.css.map",
+    "main.5ad3f27b.js.map": "./static/js/main.5ad3f27b.js.map",
+    "453.90a7b0b2.chunk.js.map": "./static/js/453.90a7b0b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.134e1ab9.css",
+    "static/js/main.5ad3f27b.js"
+  ]
+}
